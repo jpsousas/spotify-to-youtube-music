@@ -1,5 +1,5 @@
 # spotify-to-youtube-music
-A repository to develop my first api, that transfers a spotify playlist to an youtube music playlist :).  Doing my best to make a good gift to give to a very good friend. 
+A repository to develop my first api, that transfers a spotify playlist to an youtube music playlist :).  Doing my best to make a good gift to a very good friend. 
 
 First steps according to chat gpt lmao:
    1- Setting up API keys: Make sure you have the necessary API keys to access the Spotify and YouTube Music APIs. These keys are essential for authenticating your requests and accessing the appropriate resources.
