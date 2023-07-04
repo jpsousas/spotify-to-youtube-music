@@ -1,2 +1,5 @@
-*.json
+browser.json
 .env
+__pycache__
+.cache
+.dist

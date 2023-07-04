@@ -1,0 +1,20 @@
+{
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate",
+    "accept-language": "pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3",
+    "alt-used": "music.youtube.com",
+    "authorization": "SAPISIDHASH 1688505179_d2b2ba45a391d079fd6bebef97dec4c21a361134",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "application/json",
+    "cookie": "COOKIES",
+    "origin": "https://music.youtube.com",
+    "referer": "https://music.youtube.com/",
+    "te": "trailers",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0",
+    "x-goog-authuser": "0",
+    "x-origin": "https://music.youtube.com",
+    "x-youtube-bootstrap-logged-in": "true",
+    "x-youtube-client-name": "67",
+    "x-youtube-client-version": "1.20230626.00.00"
+}
